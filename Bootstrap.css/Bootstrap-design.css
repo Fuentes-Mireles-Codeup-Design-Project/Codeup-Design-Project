@@ -1,0 +1,45 @@
+.Design{
+    background-color: #E6563B;
+      border-radius: 50%;
+      width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 13px;
+}
+.Develop{
+    background-color: #E6563B;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 13px;
+}
+.Support{
+    background-color: #E6563B;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 13px;
+}
+.Host{
+    background-color: #E6563B;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    font-size: 13px;
+    padding: 0px 13px 0px 12px;
+}
