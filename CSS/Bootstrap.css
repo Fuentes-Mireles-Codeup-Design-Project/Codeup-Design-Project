@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f0f0f0;
+}
+
+span {
+    font-size: 10px;
+}
+.btn-circle{
+    border-color: rgb(255, 255, 255);
+    border-width: thick;
+    height: 4em;
+    border-radius: 48%;
+    margin: .5em;
+
+
+}
+
+.btn-1 {
+    background-color: #e5563a;
+
+}
+
+.btn-2 {
+    background-color: #eB9D3A;
+
+}
+
+.btn-3 {
+    background-color: #7CB06C;
+
+}
+
+.btn-4 {
+    background-color: #00ABA9;
+
+}
+.section-bottom {
+    font-family: 'Roboto Condensed', sans-serif;
+}
