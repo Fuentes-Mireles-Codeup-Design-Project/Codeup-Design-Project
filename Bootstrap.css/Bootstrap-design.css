@@ -12,63 +12,6 @@ h4{
 }
 
 
-/*.Design{*/
-/*    background-color: #7CB06C;*/
-/*    border-radius: 50%;*/
-/*    width: 75px;*/
-/*    height: 75px;*/
-/*    border: 5px solid white;*/
-/*    display: flex;*/
-/*    flex-direction: row;*/
-/*    align-items: center;*/
-/*    font-size: 13px;*/
-/*    color: white;*/
-/*    text-align: center;*/
-/*    font-weight: bold;*/
-/*}*/
-/*.Develop{*/
-/*    background-color: #EB9D3A;*/
-/*    border-radius: 50%;*/
-/*    width: 75px;*/
-/*    height: 75px;*/
-/*    border: 5px solid white;*/
-/*    display: flex;*/
-/*    flex-direction: row;*/
-/*    align-items: center;*/
-/*    font-size: 13px;*/
-/*    color: white;*/
-/*    font-weight: bold;*/
-
-/*}*/
-/*.Support{*/
-/*    background-color: #7CB06C;*/
-/*    border-radius: 50%;*/
-/*    width: 75px;*/
-/*    height: 75px;*/
-/*    border: 5px solid white;*/
-/*    display: flex;*/
-/*    flex-direction: row;*/
-/*    align-items: center;*/
-/*    font-size: 13px;*/
-/*    color: white;*/
-/*    text-align: center;*/
-/*    font-weight: bold;*/
-/*}*/
-/*.Host{*/
-/*    background-color: #00ABA9;*/
-/*    border-radius: 50%;*/
-/*    width: 75px;*/
-/*    height: 75px;*/
-/*    border: 5px solid white;*/
-/*    flex-direction: row;*/
-/*    align-items: center;*/
-/*    display: flex;*/
-/*    font-size: 13px;*/
-/*    color: white;*/
-/*    text-align: center;*/
-/*    font-weight: bold;*/
-/*}*/
-
 .circle-container {
     display: flex;
     justify-content: center;
@@ -115,5 +58,14 @@ hr{
 }
 .Selected-Work{
     text-align: center;
-    font-family: 'Abel', sans-serif;
+    font-family: 'Abel' ;
+    font-weight: bolder;
+}
+
+.img-thumbnail{
+    display: flex;
+    flex-wrap: wrap;
+   border: lightgray solid 5px;
+    background-color: lightgray;
+
 }
