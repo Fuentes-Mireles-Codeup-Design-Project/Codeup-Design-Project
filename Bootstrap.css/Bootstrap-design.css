@@ -1,74 +1,74 @@
-body{
-    background-color: #F0F0F0;
-}
+/*body{*/
+/*    background-color: #F0F0F0;*/
+/*}*/
 
-h1{
-    font-family: 'Anton', sans-serif;
+/*h1{*/
+/*    font-family: 'Anton', sans-serif;*/
 
-}
+/*}*/
 
-h4{
-    font-family: 'Anton', sans-serif;
-}
+/*h4{*/
+/*    font-family: 'Anton', sans-serif;*/
+/*}*/
 
 
-.circle-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-}
+/*.circle-container {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    flex-wrap: wrap;*/
+/*}*/
 
-.circle {
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
+/*.circle {*/
+/*    width: 70px;*/
+/*    height: 70px;*/
+/*    border-radius: 50%;*/
 
-    margin: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #fff;
-    font-weight: bold;
-    text-align: center;
-    font-size: 12px;
-    border:white solid 5px;
-}
-#Design{
-    background-color: #E6563B;
+/*    margin: 10px;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    color: #fff;*/
+/*    font-weight: bold;*/
+/*    text-align: center;*/
+/*    font-size: 12px;*/
+/*    border:white solid 5px;*/
+/*}*/
+/*#Design{*/
+/*    background-color: #E6563B;*/
 
-}
-#Deploy{
-    background-color: #EB9D3A;
+/*}*/
+/*#Deploy{*/
+/*    background-color: #EB9D3A;*/
 
-}
-#Support{
-    background-color: #7CB06C;
-}
+/*}*/
+/*#Support{*/
+/*    background-color: #7CB06C;*/
+/*}*/
 
-#Host{
-    background-color: #00ABA9;
+/*#Host{*/
+/*    background-color: #00ABA9;*/
 
-}
-hr{
-    margin-left: 24%;
-    width: 51%;
-    margin-bottom: 3px;
+/*}*/
+/*hr{*/
+/*    margin-left: 24%;*/
+/*    width: 51%;*/
+/*    margin-bottom: 3px;*/
 
-}
-.Selected-Work{
-    text-align: center;
-    font-family: 'Abel' ;
-    font-weight: bolder;
-}
+/*}*/
+/*.Selected-Work{*/
+/*    text-align: center;*/
+/*    font-family: 'Abel' ;*/
+/*    font-weight: bolder;*/
+/*}*/
 
-.img-thumbnail{
-    display: flex;
-    flex-wrap: wrap;
-   border: lightgray solid 5px;
-    background-color: lightgray;
+/*.img-thumbnail{*/
+/*    display: flex;*/
+/*    flex-wrap: wrap;*/
+/*   border: lightgray solid 5px;*/
+/*    background-color: lightgray;*/
 
-}
-#Security-image{
-    height: 242px;
-}
+/*}*/
+/*#Security-image{*/
+/*    height: 242px;*/
+/*}*/

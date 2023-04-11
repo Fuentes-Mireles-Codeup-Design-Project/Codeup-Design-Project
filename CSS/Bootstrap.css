@@ -1,8 +1,107 @@
+
+     {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    navbar{
+        background: #f0f0f0;
+    }
+
+    body {
+        background: #f0f0f0;
+    }
+    .display-1{
+        font-size: 60px;
+    }
+
+    img{
+        min-width: 0;
+        max-width: 480px;
+        object-fit: contain;
+    }
+
+    span {
+        font-size: 10px;
+    }
+
+    .container{
+        font-family: 'Anton', sans-serif;
+
+    }
+
+
+    .btn-circle{
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        margin: 10px;
+        font-weight: bold;
+        text-align: center;
+        font-size: 12px;
+        border:white solid 5px;
+    }
+
+    .btn-1 {
+        background-color: #e5563a;
+        color: white;
+
+
+    }
+    .btn-2 {
+        background-color: #eB9D3A;
+        color: white;
+    }
+    .btn-3 {
+        background-color: #7CB06C;
+        color: white;
+    }
+    .btn-4 {
+        background-color: #00ABA9;
+        color: white;
+    }
+
+    .section-bottom{
+        font-family:'Abel', sans-serif;
+    }
+
+    .featured-text {
+        font-family: 'Abel', sans-serif;
+        font-size: 13px;
+        font-weight: bold;
+        align-self: flex-end;
+    }
+
+    .circle {
+        background: #e5563a;
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        display: flex; /* or inline-flex */
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .d2-circle{
+        background: #eb9c39;
+    }
+
+    .s-circle {
+        background: #7aae6b;
+    }
+
+    .h-circle {
+        background: #00aaa9;
+
+}
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+
 navbar{
     background: #f0f0f0;
 }
@@ -94,3 +193,79 @@ span {
     background: #00aaa9;
 
 }
+     @media screen and (min-width:768px) {
+         body{
+             background-color: #F0F0F0;
+         }
+
+         h1{
+             font-family: 'Anton', sans-serif;
+
+         }
+
+         h4{
+             font-family: 'Anton', sans-serif;
+         }
+
+
+         .circle-container {
+             display: flex;
+             justify-content: center;
+             align-items: center;
+             flex-wrap: wrap;
+         }
+
+         .circle {
+             width: 70px;
+             height: 70px;
+             border-radius: 50%;
+
+             margin: 10px;
+             display: flex;
+             justify-content: center;
+             align-items: center;
+             color: #fff;
+             font-weight: bold;
+             text-align: center;
+             font-size: 12px;
+             border:white solid 5px;
+         }
+         #Design{
+             background-color: #E6563B;
+
+         }
+         #Deploy{
+             background-color: #EB9D3A;
+
+         }
+         #Support{
+             background-color: #7CB06C;
+         }
+
+         #Host{
+             background-color: #00ABA9;
+
+         }
+         hr{
+             margin-left: 24%;
+             width: 51%;
+             margin-bottom: 3px;
+
+         }
+         .Selected-Work{
+             text-align: center;
+             font-family: 'Abel' ;
+             font-weight: bolder;
+         }
+
+         .img-thumbnail{
+             display: flex;
+             flex-wrap: wrap;
+            border: lightgray solid 5px;
+             background-color: lightgray;
+
+         }
+         #Security-image{
+             height: 242px;
+         }
+     }
