@@ -324,3 +324,5 @@ span {
              height: 40px;
 
          }
+         @media screen and (min-width:968px) {
+             body{
