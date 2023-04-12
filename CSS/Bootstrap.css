@@ -220,6 +220,15 @@ span {
          h4{
              font-family: 'Anton', sans-serif;
          }
+         h5{
+             font-family:'Abel', sans-serif;
+
+         }
+
+         h6{
+             font-family:'Abel', sans-serif;
+
+         }
 
 
          .circle-container {
@@ -286,72 +295,32 @@ span {
          #Security-image-medium{
              height: 242px;
          }
-     }
-     @media screen and (min-width:992px) {
 
-         .nav-item {
+         .d1-circle {
+             background: #e5563a;
+             width: 30px;
+             height: 30px;
+             border: none;
              font-family: 'Abel', sans-serif;
-             font-size: small;
+         }
+
+         .d2-circle {
+             background: #eb9c39;
+             width: 40px;
+             height: 40px;
 
          }
 
-         h5 {
-             font-family: 'Abel', sans-serif;
-             display: flex;
-             align-items: center;
-         }
-         .img-logo{
-             border-radius: 50%
+         .s-circle {
+             background: #7aae6b;
+             width: 40px;
+             height: 40px;
 
          }
-    .Large-class{
-        font-size: 62px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
 
-    }
-    .circle-large{
-        width: 100px;
-        height: 100px;
-        border-radius: 70%;
-        margin: 10px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        color: #fff;
-        font-weight: bold;
-        text-align: center;
-        font-size: 15px;
-        border:white solid 5px
+         .h-circle {
+             background: #00aaa9;
+             width: 40px;
+             height: 40px;
 
-
-    }
-    .large-line{
-        width: 85%;
-        margin-left:  60px;
-
-    }
-
-.h6-large {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
-
-.large-buttons{
-    display:inline-block;
-    flex-direction: row;
-    align-items: flex-end;
-}
-.circle-1{
-    background: #e5563a;
-    width: 18px;
-    height: 18px;
-    border-radius: 50%;
-    display:   inline-flex;
-    align-items: center;
-    justify-content: center;
-}
-}
-     }
+         }
