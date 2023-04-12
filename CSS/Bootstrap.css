@@ -206,6 +206,15 @@ span {
          h4{
              font-family: 'Anton', sans-serif;
          }
+         h5{
+             font-family:'Abel', sans-serif;
+
+         }
+
+         h6{
+             font-family:'Abel', sans-serif;
+
+         }
 
 
          .circle-container {
@@ -268,4 +277,33 @@ span {
          #Security-image{
              height: 242px;
          }
+         .d1-circle {
+             background: #e5563a;
+             width: 30px;
+             height: 30px;
+             border: none;
+             font-family: 'Abel', sans-serif;
+         }
+
+         .d2-circle {
+             background: #eb9c39;
+             width: 40px;
+             height: 40px;
+
+         }
+
+         .s-circle {
+             background: #7aae6b;
+             width: 40px;
+             height: 40px;
+
+         }
+
+         .h-circle {
+             background: #00aaa9;
+             width: 40px;
+             height: 40px;
+
+         }
+
      }
