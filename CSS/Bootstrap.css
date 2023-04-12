@@ -30,6 +30,12 @@
         font-family: 'Anton', sans-serif;
 
     }
+.badge {
+    font-weight: bold;
+    color: black;
+    border: none;
+    font-family: ‘Abel’;
+}
 
 
     .btn-circle{
@@ -201,7 +207,15 @@ span {
          h1{
              font-family: 'Anton', sans-serif;
 
+
+
          }
+         .h1-medium {
+             font-size: 60px;
+
+         }
+
+
 
          h4{
              font-family: 'Anton', sans-serif;
@@ -255,7 +269,7 @@ span {
              background-color: #00ABA9;
 
          }
-         hr{
+         .medium-line{
              margin-left: 24%;
              width: 51%;
              margin-bottom: 3px;
@@ -266,6 +280,10 @@ span {
              font-family: 'Abel' ;
              font-weight: bolder;
          }
+         .paragraph-change-font{
+             font-family: 'Abel';
+
+         }
 
          .img-thumbnail{
              display: flex;
@@ -274,9 +292,10 @@ span {
              background-color: lightgray;
 
          }
-         #Security-image{
+         #Security-image-medium{
              height: 242px;
          }
+
          .d1-circle {
              background: #e5563a;
              width: 30px;
@@ -305,5 +324,3 @@ span {
              height: 40px;
 
          }
-
-     }
