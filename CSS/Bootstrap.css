@@ -200,33 +200,33 @@ span {
 
 }
      @media screen and (min-width:768px) {
-         body{
+         body {
              background-color: #F0F0F0;
          }
 
-         h1{
+         h1 {
              font-family: 'Anton', sans-serif;
 
 
-
          }
+
          .h1-medium {
              font-size: 60px;
 
          }
 
 
-
-         h4{
+         h4 {
              font-family: 'Anton', sans-serif;
          }
-         h5{
-             font-family:'Abel', sans-serif;
+
+         h5 {
+             font-family: 'Abel', sans-serif;
 
          }
 
-         h6{
-             font-family:'Abel', sans-serif;
+         h6 {
+             font-family: 'Abel', sans-serif;
 
          }
 
@@ -251,48 +251,55 @@ span {
              font-weight: bold;
              text-align: center;
              font-size: 12px;
-             border:white solid 5px;
+             border: white solid 5px;
          }
-         #Design{
+
+         #Design {
              background-color: #E6563B;
 
          }
-         #Deploy{
+
+         #Deploy {
              background-color: #EB9D3A;
 
          }
-         #Support{
+
+         #Support {
              background-color: #7CB06C;
          }
 
-         #Host{
+         #Host {
              background-color: #00ABA9;
 
          }
-         .medium-line{
+
+         .medium-line {
              margin-left: 24%;
              width: 51%;
              margin-bottom: 3px;
 
          }
-         .Selected-Work{
+
+         .Selected-Work {
              text-align: center;
-             font-family: 'Abel' ;
+             font-family: 'Abel';
              font-weight: bolder;
          }
-         .paragraph-change-font{
+
+         .paragraph-change-font {
              font-family: 'Abel';
 
          }
 
-         .img-thumbnail{
+         .img-thumbnail {
              display: flex;
              flex-wrap: wrap;
-            border: lightgray solid 5px;
+             border: lightgray solid 5px;
              background-color: lightgray;
 
          }
-         #Security-image-medium{
+
+         #Security-image-medium {
              height: 242px;
          }
 
@@ -325,6 +332,11 @@ span {
 
 
          }
+     }
          @media screen and (min-width:968px) {
-             body{
+
+
+
+         }
+
 
